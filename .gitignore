@@ -1,0 +1,15 @@
+# virtual environments
+venv/
+
+# editor
+.vscode
+
+# .py
+secrets.py
+explore.py
+
+# ipython
+__pycache__
+
+# data files
+/data/*.csv
